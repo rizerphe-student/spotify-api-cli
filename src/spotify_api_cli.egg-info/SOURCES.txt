@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/spotify_api_cli/__init__.py
+src/spotify_api_cli/cli.py
+src/spotify_api_cli.egg-info/PKG-INFO
+src/spotify_api_cli.egg-info/SOURCES.txt
+src/spotify_api_cli.egg-info/dependency_links.txt
+src/spotify_api_cli.egg-info/entry_points.txt
+src/spotify_api_cli.egg-info/not-zip-safe
+src/spotify_api_cli.egg-info/requires.txt
+src/spotify_api_cli.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+spotify_cli = spotify_api_cli.cli:cli

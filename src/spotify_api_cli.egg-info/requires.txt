@@ -1,0 +1,2 @@
+spotify_minimal_client@ git+https://github.com/rizerphe-student/spotify-minimal-client.git
+click>=8.1.3

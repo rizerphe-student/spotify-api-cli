@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: spotify-api-cli
+Version: 0.0.0
+Platform: unix
+Platform: linux
+Platform: osx
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.10
